@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=java&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=openjdk&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=ffffff" />&nbsp;
   <br>
@@ -56,9 +56,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF" />&nbsp;
   <br>
   <img src="https://img.shields.io/badge/oracleDB-9999aa?style=for-the-badge&logo=oracledb&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/jsp-ee4444?style=for-the-badge&logo=jsp&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/jsp-ee4444?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/apache%20tomcat-f8dc75?style=for-the-badge&logo=apache%20tomcat&logoColor=000000" />&nbsp;
   &emsp;
   <img src="https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/apache%20httpd-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/xampp-fb7a24?style=for-the-badge&logo=xampp&logoColor=FFFFFF" />&nbsp;
 </div><br>
 
