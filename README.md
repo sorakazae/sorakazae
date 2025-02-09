@@ -69,8 +69,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache%20httpd-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=FFFFFF" />&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20web%20service&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=aws%20ec2&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=FFFFFF" />&nbsp;
 </div><br>
 
 <br>
