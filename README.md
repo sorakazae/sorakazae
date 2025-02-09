@@ -43,12 +43,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=000000" />&nbsp;
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/github%20actions-2088ff?style=for-the-badge&logo=github%20actions&logoColor=ffffff" />&nbsp;
   
 </div><br>
 <h3 align="center">💾 Have used 💾</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff" />&nbsp;
   &emsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
   <img src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF" />&nbsp;
