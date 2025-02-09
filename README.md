@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=openjdk&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=ffffff" />&nbsp;
-  <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=000000" />&nbsp;
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />&nbsp;
   <img src="https://img.shields.io/badge/github%20actions-2088ff?style=for-the-badge&logo=github%20actions&logoColor=ffffff" />&nbsp;
@@ -67,7 +67,10 @@ Here are some ideas to get you started:
   &emsp;
   <img src="https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/apache%20httpd-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/xampp-fb7a24?style=for-the-badge&logo=xampp&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=FFFFFF" />&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20web%20service&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=aws%20ec2&logoColor=FFFFFF" />&nbsp;
 </div><br>
 
 <br>
