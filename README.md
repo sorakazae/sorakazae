@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi👋 I'm SorakAzae😊 </h1>
 <div align="center">
-<br><br><br>
+<br>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=40&pause=1000&color=02F6F7&center=true&vCenter=true&width=800&height=70&lines=Hi!%F0%9F%91%8B+I'm+SorakAzae%F0%9F%98%8A;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B+%EC%A0%80%EB%8A%94+%EC%86%8C%EB%9D%BD%EC%95%84%EC%9E%AC+%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%98%8A;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B+%E7%A7%81%E3%81%AF%E3%82%BD%E3%83%A9%E3%82%AB%E3%82%BC%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%F0%9F%98%8A)](https://git.io/typing-svg)
 
+<br>
+</div>
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorakazae&show_icons=true&theme=radical)
-&nbsp;&nbsp;
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sorakazae&theme=discord&rank=-C,-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorakazae&layout=compact)
 
 <br>
