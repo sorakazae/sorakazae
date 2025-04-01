@@ -1,101 +1,81 @@
-<!--
-## Hi there 👋
+# 💻 개발자 포트폴리오
 
+## 📌 소개 (About Me)
+안녕하세요! 저는 **소락아재** 입니다.  
+백엔드 개발을 주로 하며, 문제 해결을 좋아하는 개발자입니다.  
+Java & Spring Boot를 활용한 서버 개발에 관심이 많으며, DevOps에도 흥미가 있습니다.
 
-**sorakazae/sorakazae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 기술 스택 (Tech Stack)
+### Backend
+- Java 17, Spring Boot 3.4.1, Spring Security, Spring Data JPA, Hibernate, MySQL 9.1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-<br>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=40&pause=1000&color=02F6F7&center=true&vCenter=true&width=800&height=70&lines=Hi!%F0%9F%91%8B+I'm+SorakAzae%F0%9F%98%8A;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B+%EC%A0%80%EB%8A%94+%EC%86%8C%EB%9D%BD%EC%95%84%EC%9E%AC+%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%98%8A;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B+%E7%A7%81%E3%81%AF%E3%82%BD%E3%83%A9%E3%82%AB%E3%82%BC%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%F0%9F%98%8A)](https://git.io/typing-svg)
+### Frontend
+- HTML, CSS, JavaScript (jQuery 3.7.1, Thymeleaf)
 
-<br>
-</div>
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorakazae&show_icons=true&theme=radical)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sorakazae&theme=discord&rank=-C,-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorakazae&layout=compact)
+### DevOps
+- Docker, GitHub Actions, TrueNAS Scale, Cloudflare, AWS (EC2 경험 있음)
 
-<br>
+### 기타
+- C언어 (기초 복습 중), Arduino (자율주행 프로토타입 개발 경험), PHP, JSP 사용경험 있음
 
-<h2 align="center">✨ Tech Stack ✨</h2>
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=ffffff" />&nbsp;
-</div><br>
-<h3 align="center">🧑‍💻 Use well 🧑‍💻</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-  <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=openjdk&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=000000" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/github%20actions-2088ff?style=for-the-badge&logo=github%20actions&logoColor=ffffff" />&nbsp;
-  
-</div><br>
-<h3 align="center">💾 Have used 💾</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff" />&nbsp;
-  &emsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/oracleDB-9999aa?style=for-the-badge&logo=oracledb&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/jsp-ee4444?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/apache%20tomcat-f8dc75?style=for-the-badge&logo=apache%20tomcat&logoColor=000000" />&nbsp;
-  &emsp;
-  <img src="https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/apache%20httpd-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=FFFFFF" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=FFFFFF" />&nbsp;
-</div><br>
+---
 
-<br>
+## 🚀 프로젝트 (Projects)
 
-<h3 align="center">🛠 Tools & Environment 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=FFFFFF" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/portainer-13bef9.svg?style=for-the-badge&logo=portainer&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/truenas-0095d5?style=for-the-badge&logo=truenas&logoColor=ffffff" />&nbsp
-  <img src="https://img.shields.io/badge/cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=ffffff" />&nbsp
-</div>
+### 📂 프로젝트 1 - [MyGG]  
+🖥 [Mygg GitHub Repository](https://github.com/SCIT46) | 🌎 [배포 링크](https://mygg.lol)
 
-<br>
+**설명**  
+이 프로젝트는 게임 "리그 오브 레전드"의 전적과 통계를 제공하는 것에 초점을 맞춘 웹 서비스입니다.  
+사용자가 게임 플레이 전적 조회를 쉽게 이용할 수 있도록 설계되었습니다.
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:sorakazae@gmail.com">
-    <img
-      src="https://img.shields.io/badge/sorakazae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+**기술 스택**  
+- Backend: Java, Spring Boot, JPA, MySQL  
+- Frontend: Thymeleaf, jQuery  
+- DevOps: GitHub Actions, Docker 
+
+**역할**  
+- BackEnd 개발, DevOps 및 인프라 개발
+- 아이템, 챔피언, 전적정보 조회 DB/API 설계 및 개발, 서버 및 CI-CD 파이프라인 구축
+
+**성과**  
+- 사용자가 조회하고자 하는 플레이어에 대한 게임 전적 검색 결과 제공
+- 아이템, 챔피언에 대한 정보 제공
+
+---
+
+### 📂 프로젝트 2 - [UPDA]  
+🖥 [UPDA GitHub Repository](https://github.com/SCIT46A) | 🌎 [배포 링크 (폐쇄)](https://upda.store)
+
+**설명**  
+UPDA는 환경 보호에 관심이 있는 창작자와 후원자를 연결하는 플랫폼입니다.  
+재활용 가능한 재료를 기부하고, 이를 활용한 제품 제작을 후원하며, 완성된 제품을 리워드로 받을 수 있습니다.
+
+**기술 스택**  
+- Backend: Java, Spring Boot, JPA, MySQL  
+- Frontend: Thymeleaf, jQuery  
+- DevOps: GitHub Actions, Docker, Cloudflare   
+
+**역할**  
+- BackEnd 개발, DevOps 및 인프라 개발
+- 캠페인 생성, 수정, 상품 생성관련 기능 및 DB 설계 및 개발
+- cloudflare images를 이용한 이미지 업로드 및 접근
+- 서버 및 CI-CD 파이프라인 구축
+
+---
+
+## 📖 공부 & 경험
+- 📌 **일본어**: JLPT N2 (N1 준비 중)  
+- 📌 **개발 관련 학습**: IT & 일본어 학원에서 Spring Boot 공부 중  
+- 📌 **군 복무 경험**: 포병 부대에서 2년 복무(중위 전역)  
+
+---
+
+## 📞 연락처
+- 📧 Email: sorakazae@gmail.com
+- 🐙 GitHub: [https://github.com/sorakazae](https://github.com/sorakazae)
+- 📝 Blog: [https://sorakazae.github.io](https://sorakazae.github.io)
+- 🌍 거주지: 서울, 도쿄 (예정)
+
