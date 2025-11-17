@@ -31,7 +31,7 @@ JavaとSpring Bootを活用したサーバー開発に関心があり、DevOps�
 ## 🚀 프로젝트 (プロジェクト)
 
 ### 📂 Project 1 - [MyGG]  
-🖥 [Mygg GitHub Repository](https://github.com/SCIT46) | 🌎 [배포 링크・デプロイリンク（韓国語）](https://mygg.lol)  
+🖥 [Mygg GitHub Repository](https://github.com/SCIT46)
 
 **설명（説明）**  
 이 프로젝트는 게임 "리그 오브 레전드"의 전적과 통계를 제공하는 것에 초점을 맞춘 웹 서비스입니다.  
@@ -60,7 +60,7 @@ JavaとSpring Bootを活用したサーバー開発に関心があり、DevOps�
 ---
 
 ### 📂 Project 2 - [UPDA]  
-🖥 [UPDA GitHub Repository](https://github.com/SCIT46A) | 🌎 [배포 링크 (공사중)・デプロイリンク（現在は利用不可）](https://upda.store)  
+🖥 [UPDA GitHub Repository](https://github.com/SCIT46A)
 
 **설명（説明）**  
 UPDA는 환경 보호에 관심이 있는 창작자와 후원자를 연결하는 플랫폼입니다.  
@@ -83,18 +83,4 @@ UPDAは環境保護に関心のあるクリエイターと支援者をつなぐ�
 　→ Cloudflare Imagesを利用した画像のアップロードとアクセス制御  
 - 서버 및 CI-CD 파이프라인 구축  
 　→ サーバーとCI/CDパイプラインの構築
-
----
-
-## 📖 공부 & 경험 (勉強 & 経験)
-
-- 📌 일본어: JLPT N2 (N1 준비 중)  
-　→ 日本語：JLPT N2（N1準備中）  
-
-- 📌 개발 관련 학습: IT & 일본어 학원에서 Spring Boot 공부 중  
-　→ IT関連学習：ITと日本語スクールでSpring Bootを学習中  
-
-- 📌 군 복무 경험: 포병 부대에서 2년 복무(중위 전역)  
-　→ 軍経験：砲兵部隊で2年間勤務（中尉で退役）
-
----
+ ---
